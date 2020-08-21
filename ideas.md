@@ -14,7 +14,7 @@ Sub Idea: Integrate it with [p2pt](https://github.com/subins2000/p2pt) to fetch 
 </details>
 
 <details>
-<summary>WebRTC Apps Offline in Android</summary>
+<summary>Internet-less WebRTC Apps in Android</summary>
 
 \#webtorrent, \#android, \#game
 
@@ -29,4 +29,11 @@ Each device in the internet-less hotspot network would start a tracker or the ma
 \#webtorrent, \#torrent, \#webapp
 
 A website where users can submit magnet links to a **list** to request seeders. The website has a "Help" page where people who want to help can start downloading those torrents in the **list** and seed forever. Why would they do that ? Pure love, they can use the site in their need too.
+</details>
+
+<details>
+<summary>Decentralized Torrent Search Engine</summary>
+2 ways to do this :
+* Proxy search queries via [p2pt](https://github.com/subins2000/p2pt) to [YIFY API](https://yts.mx/api). This is decentralized proxying. Caching search results by each proxy will be an enhancement.
+* Make a [BIP39](https://iancoleman.io/bip39/) like wordlist for search queries. Suppose a query is `Ubuntu Beaver`, the query is split by whitespace, ordered to `Beaver Ubuntu` and a hash is made. Peers searching the same query or providing result for the query can be accessed by a torrent announce with the hash and results obtained. A search result provider has to keep seeding their results forever tho. This solution can work right in the browser (p2pt) with no backends.
 </details>
