@@ -63,8 +63,8 @@ Instead of having to upload your photos to an online service like Google Photos,
 </details>
 
 <details>
-<summary>Decentralied Access To Wikipedia</summary>
-<p>#p2p, #webapp, #node</p>
+<summary>Decentralized Access To Wikipedia</summary>
+<p>#p2p, #webapp, #nodejs</p>
 [Wikipeer on GitHub](https://github.com/subins2000/wikipeer/)
 </details>
 
