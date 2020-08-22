@@ -1,4 +1,4 @@
-<div style="display: none;">[![Visits Badge](https://demos.subinsb.com/sanders/s.js?id=subins2000-thoughts)</div>
+<div style="display: none;"><img src="https://demos.subinsb.com/sanders/s.js?id=subins2000-thoughts" height="0" width="0" /></div>
 
 <details>
 <summary>Fish doesn't realize it</summary>
