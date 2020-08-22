@@ -1,3 +1,5 @@
+<div style="display: none;">[![Visits Badge](https://demos.subinsb.com/sanders/s.js?id=subins2000-thoughts)</div>
+
 <details>
 <summary>Fish doesn't realize it</summary>
 If humans are confined in a cell, they'll obviously try to get out of it or seek the world outside of it. A fish (aquarium fish to be exact) doesn't do anything. It just breathes and moves around. It doesn't have the thinking capability to know it's imprisoned (does it ?) nor do they think there's a world outside.<br/><br/>
