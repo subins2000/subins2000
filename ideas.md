@@ -1,4 +1,4 @@
-These are some ideas that I have to build, some partially worked/working on, some never touched.
+These are some ideas that I have to build, some partially worked/working on, some not touched. Suggestions, PRs to everything welcome!
 
 ## Ideas
 
@@ -6,7 +6,7 @@ Ideas that have not been worked on yet. Please do ping me if you've started any 
 
 <details>
 <summary>WebTorrent Online Player</summary>
-#webtorrent, #torrent, #webapp
+<p>#webtorrent, #torrent, #webapp</p>
 
 Integrate WebTorrent with an online web player, no server backends, just full frontend. Should allow to play multiple files in a torrent too
 
@@ -15,7 +15,7 @@ Sub Idea: Integrate it with [p2pt](https://github.com/subins2000/p2pt) to fetch 
 
 <details>
 <summary>Internet-less WebRTC Apps in Android</summary>
-#webtorrent, #android, #game
+<p>#webtorrent, #android, #game</p>
 
 Run [WebTorrent tracker](https://github.com/OpenWebTorrent/openwebtorrent-tracker) in Android, connect devices offline to make a mesg network and run offline WebRTC apps. As a demo to start working with, try to bring [Vett](https://github.com/subins2000/vett) or [WebDrop](https://github.com/subins2000/WebDrop) as an offline Android webview app.
 
@@ -24,14 +24,14 @@ Each device in the internet-less hotspot network would start a tracker or the ma
 
 <details>
 <summary>Torrent Seed Helper</summary>
-#webtorrent, #torrent, #webapp
+<p>#webtorrent, #torrent, #webapp</p>
 
 A website where users can submit magnet links to a **list** to request seeders. The website has a "Help" page where people who want to help can start downloading those torrents in the **list** and seed forever. Why would they do that ? Pure love, they can use the site in their need too.
 </details>
 
 <details>
 <summary>Decentralized Torrent Search Engine</summary>
-#webtorrent, #torrent, #webapp
+<p>#webtorrent, #torrent, #webapp</p>
   
 2 different ways to do this :
   
@@ -41,7 +41,33 @@ A website where users can submit magnet links to a **list** to request seeders. 
 
 <details>
 <summary>Varnam Indic Language Editor</summary>
-#webapp, #linux
+<p>#webapp, #linux</p>
 
 Make an online indic language input editor with [varnamd](https://github.com/varnamproject/varnamd) API (also [varnamproject.com public API](https://api.varnamproject.com)). Possibly intergate [mlmorph-spellchecker](https://gitlab.com/smc/mlmorph-spellchecker). This editor can then be used for [Varnam Flatpak](https://github.com/subins2000/varnam) with learnings from API.
 </details>
+
+## Working On
+
+Ideas that I have done atleast 5% work on currently, but have not yet released to a stable state.
+
+<details>
+<summary>Find Photos You Are In Offline!</summary>
+<p>#electronjs, #webapp</p>
+
+Instead of having to upload your photos to an online service like Google Photos, what if there's a way to find photos with a particular face or faces is in. [FindMyPhotos on GitLab](https://gitlab.com/subins2000/findmyphotos).
+
+* Cross platform
+* Caching is done to speed up the process
+* Not a full photo management software, see [KPhotoAlbum](https://www.kphotoalbum.org/) or [NextCloud Photos](https://github.com/nextcloud/photos).
+* FMP can be used to sort photos, and later label them with a metadata so that other photo management software can pick them
+</details>
+
+<details>
+<summary>Decentralied Access To Wikipedia</summary>
+<p>#p2p, #webapp, #node</p>
+[Wikipeer on GitHub](https://github.com/subins2000/wikipeer/)
+</details>
+
+## Stable
+
+See [https://subinsb.com/projects](https://subinsb.com/projects/)
