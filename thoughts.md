@@ -8,3 +8,10 @@ Fish doesn't know or realize it.
 
 2020 August 22 (This thought was triggered by seeing a fish aquarium in the background scene on a TV programme).
 </details>
+
+<details>
+<summary>Cats have a sad life</summary>
+Stray cats always come around during lunch times looking for something to eat. They literally beg with their sweet voices, trying to get some sympathy, with the hope that they'll get something to eat. Throughout their life, they need to beg to live. Have they survived in the world till now by beggging ? Has begging turned out to be an innate part of their life ? The next generations will still beg, continuing what their forefathers did. Kittens grow up learning to be good beggars ? It has become intrinsic. That's sad.
+
+2020 August 13 (This thought was triggered by the cat that comes to our house seeking food everyday. It gave 3 cute little kittens last week.)
+</details>
