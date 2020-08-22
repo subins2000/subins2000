@@ -11,6 +11,18 @@ Fish doesn't know or realize it.
 2020 August 22 (This thought was triggered by seeing a fish aquarium in the background scene on a TV programme).
 </details>
 
+
+<details>
+<summary>Hooman companions</summary>
+Of all the animals on Earth, there are only dogs and cats who we have the most companionship with. There are cows, goats too, but I mean organisms that is near to the size of a dog/cat. [Indian grey mongoose](https://en.wikipedia.org/wiki/Indian_gray_mongoose) is cool, but they're very scared of humans. They stand up and stare at you, but I think they're cool. Snakes can't kill them, that's pretty savage.<br/><br/>
+
+A mother mongoose and their kids sometimes come in the backyard to find something to eat, but they're very scared of humans. They haven't developed the sound as cats do for begging, but they might in future, maybe. Were cats too savage like mongoose in the past ? Oh, [maybe](https://www.flickr.com/photos/damienbottura/2050971092/). Their cousin Tigers sure are !
+
+Mongooses are not scared of snakes, but they're scared of humans. That tells someting eh ?
+
+2020 August 13 (This thought was triggered by the mongoose who got startled and stared at me)
+</details>
+
 <details>
 <summary>Cats have a sad life</summary>
 Stray cats always come around during lunch times looking for something to eat. They literally beg with their sweet voices, trying to get some sympathy, with the hope that they'll get something to eat. Throughout their life, they need to beg to live. Have they survived in the world till now by beggging ?<br/><br/>
@@ -19,3 +31,5 @@ Have begging turned out to be an innate part of their life ? The next generation
 
 2020 August 13 (This thought was triggered by the cat that comes to our house seeking food everyday. It gave 3 cute little kittens last week.)
 </details>
+
+_Too short for a [blog](https://subinsb.com), too long for a [tweet](https://twitter.com/SubinSiby). These are thoughts in Malayalam translated as best as I can to English_
