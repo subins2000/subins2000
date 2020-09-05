@@ -14,15 +14,6 @@ Sub Idea: Integrate it with [p2pt](https://github.com/subins2000/p2pt) to fetch 
 </details>
 
 <details>
-<summary>Internet-less WebRTC Apps in Android</summary>
-<p>#webtorrent, #android, #game</p>
-
-Run [WebTorrent tracker](https://github.com/OpenWebTorrent/openwebtorrent-tracker) in Android, connect devices offline to make a mesg network and run offline WebRTC apps. As a demo to start working with, try to bring [Vett](https://github.com/subins2000/vett) or [WebDrop](https://github.com/subins2000/WebDrop) as an offline Android webview app.
-
-Each device in the internet-less hotspot network would start a tracker or the main hotspot device starts a tracker. The Tracker IP & Port of these devices should be given to the webapp to access. The question is whether IP of devices in the network can be found out.
-</details>
-
-<details>
 <summary>Torrent Seed Helper</summary>
 <p>#webtorrent, #torrent, #webapp</p>
 
@@ -37,13 +28,6 @@ A website where users can submit magnet links to a **list** to request seeders. 
   
 * Proxy search queries via [p2pt](https://github.com/subins2000/p2pt) to [YIFY API](https://yts.mx/api). This is decentralized proxying. Caching search results by each proxy will be an enhancement.
 * Make a [BIP39](https://iancoleman.io/bip39/) like wordlist for search queries. Suppose a query is `Ubuntu Beaver`, the query is split by whitespace, ordered to `Beaver Ubuntu` and a hash is made. Peers searching the same query or providing result for the query can be accessed by a torrent announce with the hash and results obtained. A search result provider has to keep seeding their results forever tho. This solution can work right in the browser (p2pt) with no backends.
-</details>
-
-<details>
-<summary>Varnam Indic Language Editor</summary>
-<p>#webapp, #linux</p>
-
-Make an online indic language input editor with [varnamd](https://github.com/varnamproject/varnamd) API (also [varnamproject.com public API](https://api.varnamproject.com)). Possibly intergate [mlmorph-spellchecker](https://gitlab.com/smc/mlmorph-spellchecker). This editor can then be used for [Varnam Flatpak](https://github.com/subins2000/varnam) with learnings from API.
 </details>
 
 ## Working On
@@ -66,6 +50,24 @@ Instead of having to upload your photos to an online service like Google Photos,
 <summary>Decentralized Access To Wikipedia</summary>
 <p>#p2p, #webapp, #nodejs</p>
 [Wikipeer on GitHub](https://github.com/subins2000/wikipeer/)
+</details>
+
+<details>
+<summary>Internet-less WebRTC Apps in Android</summary>
+<p>#webtorrent, #android, #game</p>
+
+Run [WebTorrent tracker](https://github.com/OpenWebTorrent/openwebtorrent-tracker) in Android, connect devices offline to make a mesg network and run offline WebRTC apps. As a demo to start working with, try to bring [Vett](https://github.com/subins2000/vett) or [WebDrop](https://github.com/subins2000/WebDrop) as an offline Android webview app.
+
+Each device in the internet-less hotspot network would start a tracker or the main hotspot device starts a tracker. The Tracker IP & Port of these devices should be given to the webapp to access. The question is whether IP of devices in the network can be found out.
+
+[Dots on GtiLab](https://github.com/subins2000/dots)
+</details>
+
+<details>
+<summary>Varnam Indic Language Editor</summary>
+<p>#webapp, #linux</p>
+
+Make an online indic language input editor with [varnamd](https://github.com/varnamproject/varnamd) API (also [varnamproject.com public API](https://api.varnamproject.com)). Possibly intergate [mlmorph-spellchecker](https://gitlab.com/smc/mlmorph-spellchecker). This editor can then be used for [Varnam Flatpak](https://github.com/subins2000/varnam) with learnings from API.
 </details>
 
 ## Stable
