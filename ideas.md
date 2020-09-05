@@ -30,6 +30,13 @@ A website where users can submit magnet links to a **list** to request seeders. 
 * Make a [BIP39](https://iancoleman.io/bip39/) like wordlist for search queries. Suppose a query is `Ubuntu Beaver`, the query is split by whitespace, ordered to `Beaver Ubuntu` and a hash is made. Peers searching the same query or providing result for the query can be accessed by a torrent announce with the hash and results obtained. A search result provider has to keep seeding their results forever tho. This solution can work right in the browser (p2pt) with no backends.
 </details>
 
+<details>
+<summary>IPFS + WebTorrent</summary>
+<p>#webtorrent, #torrent, #webapp, #ipfs</p>
+
+Make IPFS JS use WebTorrent trackers to connect to peers. They already have a custom WebRTC signalling server setup, but it'd be more awesome if they can make use of trackers.
+</details>
+
 ## Working On
 
 Ideas that I have done atleast 5% work on currently, but have not yet released to a stable state.
