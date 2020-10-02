@@ -1,6 +1,22 @@
 <div style="display: none;"><img src="https://demos.subinsb.com/sanders/s.js?id=subins2000-thoughts" height="0" width="0" /></div>
 
 <details>
+<summary>Plastic sand</summary>
+
+Everywhere I go, I see plastic. Places told as true nature's beauty, if you look closely, you'll see a bit of plastic somewhere. But, this only happened in the last 40 years and is still happening to the point that plastic will be as normal as sand. Next generation kids would grow up thinking plastic as normal (would they play & eat plastic like how kids eat mud ?).
+
+We're (GenZ) probably the last generation that saw rivers, lakes, beaches without any plastic in it. Next generation is not so lucky. To know this is still happening right at the time of writing this is sad.
+
+The Challenger Deep (Mariana Trench) is the deepest part of the ocean where we haven't reached yet, oh we did ! Plastic floats at [the remotest place on Earth](https://youtu.be/PaErPyEnDvk).
+
+When we made plastic, did we think of the long-term reprecussions of it ? Did we try to find an alternate or for the sake of cost and business, went along with it, knowing very well the destruction it can cause ? [The latter is the case](https://en.wikipedia.org/wiki/The_Clean_Room)
+
+For short-term-profits, to be rich till we die, we screw our future generations. And they'll have to suffer and deal with it. I understand why [Greta is angry](https://www.youtube.com/watch?v=TMrtLsQbaok), I am too.
+
+2020 October 3.
+</details>
+
+<details>
 <summary>Fish doesn't realize it</summary>
 
 If humans are confined in a cell, they'll obviously try to get out of it or seek the world outside of it. A fish (aquarium fish to be exact) doesn't do anything. It just breathes and moves around. It doesn't have the thinking capability to know it's imprisoned (does it ?) nor do they think there's a world outside.
@@ -11,7 +27,6 @@ Fish doesn't know or realize it.
 
 2020 August 22 (This thought was triggered by seeing a fish aquarium in the background scene on a TV programme).
 </details>
-
 
 <details>
 <summary>Hooman companions</summary>
